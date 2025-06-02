@@ -1,0 +1,117 @@
+>> a=5
+
+a =
+
+     5
+
+>> a=5;
+>> b=3
+
+b =
+
+     3
+
+>> a+b
+
+ans =
+
+     8
+
+>> a*b
+
+ans =
+
+    15
+
+>> a/b
+
+ans =
+
+    1.6667
+
+>> a-b
+
+ans =
+
+     2
+
+
+>> c=a+b
+
+c =
+
+     8
+
+>> d=a*b
+
+d =
+
+    15
+
+>> e=a/b
+
+e =
+
+    1.6667
+
+>> f=a-b
+
+f =
+
+     2
+
+>> A=[1 2 3] %make matrix row wise (one)
+
+A =
+
+     1     2     3
+
+>> B=[2;3;4] %make matrix column wise(one column)
+
+B =
+
+     2
+     3
+     4
+
+>> C=[2 3 4; 5 6 7; 8 9 10] %matrx define
+
+C =
+
+     2     3     4
+     5     6     7
+     8     9    10
+
+>> size(C) %find matrix size
+
+ans =
+
+     3     3
+
+>> numel(C) %count the no. of element in matrix
+
+ans =
+
+     9
+
+>> sum(C,1) %get sum column wise
+
+ans =
+
+    15    18    21
+
+>> sum(C,2) %get sum row wise
+
+ans =
+
+     9
+    18
+    27
+
+
+
+>> sum(sum(C)) %get sum of matrix
+
+ans =
+
+    54
