@@ -7,4 +7,9 @@
 -Bubble sort
 ![Screenshot (133)](https://github.com/user-attachments/assets/ec9a5a01-e9c1-485b-85f0-a13198298991)
 
+- Merge sort
+![Screenshot (220)](https://github.com/user-attachments/assets/c61e6534-3ba5-478b-9979-0d3a2f02c6f0)
+
+- Quick sort
+![Screenshot (221)](https://github.com/user-attachments/assets/4dea6a2c-b2ec-4a0f-b427-64cffa21f45f)
 
