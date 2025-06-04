@@ -15,3 +15,7 @@
 
 - highlightGraph
 ![Screenshot (144)](https://github.com/user-attachments/assets/2e1587c7-d173-4147-a746-b945a9f016c3)
+
+- Adjancency2
+  ![Screenshot (146)](https://github.com/user-attachments/assets/a5dcda04-edcb-4869-bd31-e1f9f893efa2)
+
