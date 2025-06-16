@@ -10,27 +10,27 @@
 - graphHomework
    - Q2
 
-![Screenshot (223)](https://github.com/user-attachments/assets/1d2f9a6d-6ebe-499f-b30d-3d003de04156)
+     ![Screenshot (223)](https://github.com/user-attachments/assets/1d2f9a6d-6ebe-499f-b30d-3d003de04156)
 
    - Q3
 
-![Screenshot (224)](https://github.com/user-attachments/assets/c869ca88-a0c6-4e21-9a3d-6ebeb0c7e6c1)
+     ![Screenshot (224)](https://github.com/user-attachments/assets/c869ca88-a0c6-4e21-9a3d-6ebeb0c7e6c1)
 
    - Q4
 
-![Screenshot (228)](https://github.com/user-attachments/assets/2b12cc7f-39cd-4af3-8f6d-93b9d80877a9)
+     ![Screenshot (228)](https://github.com/user-attachments/assets/2b12cc7f-39cd-4af3-8f6d-93b9d80877a9)
 
    - Q5 and Q6
 
-![Screenshot (225)](https://github.com/user-attachments/assets/3dd8500d-17c1-4bf8-85b6-b001aee47b3f)
+     ![Screenshot (225)](https://github.com/user-attachments/assets/3dd8500d-17c1-4bf8-85b6-b001aee47b3f)
 
    - Q7
 
-![Screenshot (226)](https://github.com/user-attachments/assets/4c199525-af45-47eb-833c-5a641911a05f)
+     ![Screenshot (226)](https://github.com/user-attachments/assets/4c199525-af45-47eb-833c-5a641911a05f)
 
    - Q8
 
-![Screenshot (227)](https://github.com/user-attachments/assets/0937fdcb-66da-4640-ab43-c4643abba4ef)
+     ![Screenshot (227)](https://github.com/user-attachments/assets/0937fdcb-66da-4640-ab43-c4643abba4ef)
 
 - DFS tree
 
